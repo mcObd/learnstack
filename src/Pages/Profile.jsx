@@ -1,8 +1,4 @@
-
-const Profile = () => {
-  return (
-    <div>Profile</div>
-  )
+// src/pages/Profile.jsx
+export default function Profile() {
+  return <h1>Profile Page</h1>
 }
-
-export default Profile

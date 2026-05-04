@@ -1,9 +1,4 @@
-import React from 'react'
-
-const AdminLogin = () => {
-  return (
-    <div>AdminLogin</div>
-  )
+// src/pages/admin/AdminLogin.jsx
+export default function AdminLogin() {
+  return <h1>Admin Login Page</h1>
 }
-
-export default AdminLogin

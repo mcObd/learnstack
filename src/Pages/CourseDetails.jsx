@@ -1,8 +1,4 @@
-
-const CourseDetails = () => {
-  return (
-    <div>CourseDetails</div>
-  )
+// src/pages/CourseDetails.jsx
+export default function CourseDetails() {
+  return <h1>Course Details Page</h1>
 }
-
-export default CourseDetails

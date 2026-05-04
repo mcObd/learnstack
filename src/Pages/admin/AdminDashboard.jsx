@@ -1,8 +1,4 @@
-
-const AdminDashboard = () => {
-  return (
-    <div>AdminDashboard</div>
-  )
+// src/pages/admin/AdminDashboard.jsx
+export default function AdminDashboard() {
+  return <h1>Admin Dashboard Page</h1>
 }
-
-export default AdminDashboard
