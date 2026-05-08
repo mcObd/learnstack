@@ -1,13 +1,13 @@
 import { Routes, Route } from 'react-router-dom'
 
-import Home from '../pages/Home'
-import Auth from '../pages/Auth'
-import Dashboard from '../pages/Dashboard'
-import Courses from '../pages/Courses'
-import CourseDetails from '../pages/CourseDetails'
-import Profile from '../pages/Profile'
-import AdminLogin from '../pages/admin/AdminLogin'
-import AdminDashboard from '../pages/admin/AdminDashboard'
+import Home from '../Pages/Home'
+import Auth from '../Pages/Auth'
+import Dashboard from '../Pages/Dashboard'
+import Courses from '../Pages/Courses'
+import CourseDetails from '../Pages/CourseDetails'
+import Profile from '../Pages/Profile'
+import AdminLogin from '../Pages/admin/AdminLogin'
+import AdminDashboard from '../Pages/admin/AdminDashboard'
 
 export default function AppRoutes() {
   return (

@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { supabase } from '../services/supabase'
+import { supabase } from '../Services/supabase'
 
 export default function Courses() {
   useEffect(() => {
